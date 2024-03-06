@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "name": "minaexplorer.com",
+    "buttonprefix": "mnxpl",
+    "blockurl": "https://minaexplorer.com/block/{0}?utm_source=minanotifierbot",
+    "accounturl": "https://minaexplorer.com/wallet/{0}?utm_source=minanotifierbot",
+    "opurl": "https://minaexplorer.com/transaction/{0}?utm_source=minanotifierbot"
+  },
+  {
+    "id": 2,
+    "name": "minascan.io",
+    "buttonprefix": "mnscn",
+    "blockurl": "https://minascan.io/mainnet/block/{0}?utm_source=minanotifierbot",
+    "accounturl": "https://minascan.io/mainnet/account/{0}?utm_source=minanotifierbot",
+    "opurl": "https://minascan.io/mainnet/tx/{0}?utm_source=minanotifierbot"
+  }
+]

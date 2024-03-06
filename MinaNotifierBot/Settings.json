@@ -1,0 +1,9 @@
+{
+  "Telegram": {
+      "BotSecret": "",
+      "AdminChannel": -0,
+      "SupportGroup": -0
+    },
+  "MinaExplorerUrl": "https://api.minaexplorer.com/",
+  "CryptoCompareToken": ""
+}

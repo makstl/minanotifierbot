@@ -1,0 +1,2 @@
+dotnet publish --runtime win-x64 --self-contained true
+dotnet publish --runtime ubuntu.20.04-x64 --self-contained true
